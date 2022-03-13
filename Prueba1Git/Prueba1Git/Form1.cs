@@ -21,5 +21,10 @@ namespace Prueba1Git
         {
             lblHelloWorld.Text = "Hello World!";
         }
+
+        private void btnPulsaeste_Click(object sender, EventArgs e)
+        {
+            lblHolaMundo.Text = "Hola Mundo!";
+        }
     }
 }
